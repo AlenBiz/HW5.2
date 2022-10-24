@@ -6,3 +6,7 @@ console.log(gpa);
 
 let namee = "Alena Biziaeva";
 console.log(namee);
+
+let name1 = namee.slice(0,1);
+
+console.log(name1);
